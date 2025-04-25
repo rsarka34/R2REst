@@ -19,7 +19,7 @@
 
 # Results
 <p align="center">
-<img width="478" alt="Screenshot 2025-04-25 at 11 52 21 AM" src="https://github.com/user-attachments/assets/2d319fc6-04fd-4d50-a4b8-3da424a73d65" />
+<img width="800" alt="Screenshot 2025-04-25 at 11 52 21 AM" src="https://github.com/user-attachments/assets/2d319fc6-04fd-4d50-a4b8-3da424a73d65" />
 </p>
 
 # Performance
