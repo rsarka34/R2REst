@@ -18,8 +18,14 @@
 </p>
 
 # Results
-
+<p align="center">
+<img width="478" alt="Screenshot 2025-04-25 at 11 52 21 AM" src="https://github.com/user-attachments/assets/2d319fc6-04fd-4d50-a4b8-3da424a73d65" />
+</p>
 
 # Performance
+
+<p align="center">
+<img width="803" alt="Screenshot 2025-04-25 at 12 02 59 PM" src="https://github.com/user-attachments/assets/18975e46-6b13-4645-90ca-46c3ef3885c9" />
+</p>
 
 # Cite as
