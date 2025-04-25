@@ -1,4 +1,4 @@
-# R2REst-IEEE-SPL-2025
+# R2REst
 
 **R2Rest: A Novel Deep Learning Framework for Estimating Respiration Rate from Respiratory Sounds**
 
