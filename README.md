@@ -2,6 +2,8 @@
 
 **R2Rest: A Novel Deep Learning Framework for Estimating Respiration Rate from Respiratory Sounds**
 
+[![Paper Link](https://img.shields.io/badge/Preprint-TechRixv-red)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174318053.37913618) 
+
 **Authors: Soubhagya Ranjan Hota&dagger;, Arka Roy&dagger;, and Udit Satija**
 
 # Abstract
