@@ -4,6 +4,8 @@
 
 **Authors: Soubhagya Ranjan Hota&dagger;, Arka Roy&dagger;, and Udit Satija**
 
+&dagger; means equally contributed in the paper
+
 [![Paper Link](https://img.shields.io/badge/Preprint-TechRixv-red)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174318053.37913618) 
 
 
