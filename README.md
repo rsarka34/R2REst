@@ -35,8 +35,10 @@ Non-invasive respiratory activity assessment including airflow signal (AF)-deriv
 </p>
 
 # Cite as
+Soubhagya Ranjan Hota, Arka Roy, Udit Satija. ``R2REst: A Unified Deep Learning Framework for Estimating Respiration Rate from Respiratory Sounds". *TechRxiv*. March 28, 2025.
+DOI: 10.36227/techrxiv.174318053.37913618/v1
 
-```
+```bibtex
 @article{hota2025r2rest,
   title={R2REst: A Unified Deep Learning Framework for Estimating Respiration Rate from Respiratory Sounds},
   author={Hota, Soubhagya Ranjan and Roy, Arka and Satija, Udit},
