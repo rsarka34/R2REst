@@ -1,6 +1,6 @@
 # R2REst
 
-**R2Rest: A Novel Deep Learning Framework for Estimating Respiration Rate from Respiratory Sounds**
+**R2Rest: A Novel Deep Learning Framework for Estimating Respiration Rate from Respiratory Sounds** (IEEE SPL-2025)
 
 **Authors: Soubhagya Ranjan Hota&dagger;, Arka Roy&dagger;, and Udit Satija** (&dagger; means equally contributed in the paper)
 
@@ -11,7 +11,7 @@
 
 # Abstract
 <p align="justify">
-Non-invasive respiratory activity assessment including airflow signal (AF)-derived vital extraction such as respiration rate (RR), tidal volume, peak expiratory rate, etc., and adventitious breathing event detection, are emerging research areas in continuous health monitoring. Recent studies have demonstrated a strong pathological correlation between AFs and respiratory sounds (RSs). In this research, we present a unified deep learning framework, namely R2REst, for RR estimation by synthesizing equivalent electrical impedance tomography (EIT)-based AFs from RSs. The proposed framework comprises four major stages: pre-processing, mel spectrogram generation, mel spectrogram-vision transformer-based AF prediction, and lastly, RR estimation by analyzing the frequency spectrum of the predicted AF signal. Experimental results on the RSs from BRACETS dataset show that the proposed framework exceeds existing works on RR estimation which utilize either RSs or other bio-acoustic modalities, by obtaining a mean square error (MSE) and mean absolute error (MAE) of 0.001, 0.003 and 0.010, 0.016 (in breaths per minute (BPM)) for tidal breathing followed by deep breathing (TBDB) and cough-speech (TBCS) induced cases. 
+Non-invasive respiratory activity assessment, including airflow signal (AF)-derived vital extraction such as respiration rate (RR), tidal volume, peak expiratory rate, etc., and adventitious breathing event detection, are emerging research areas in continuous health monitoring. Recent studies have demonstrated a strong pathological correlation between AFs and respiratory sounds (RSs). In this research, we present a unified deep learning framework, namely R2REst, for RR estimation by synthesizing equivalent electrical impedance tomography (EIT)-based AFs from RSs. The proposed framework comprises four major stages: pre-processing, mel spectrogram generation, mel spectrogram-vision transformer-based AF prediction, and lastly, RR estimation by analyzing the frequency spectrum of the predicted AF signal. Experimental results on the RSs from the BRACETS dataset show that the proposed framework exceeds existing works on RR estimation, which utilize either RSs or other bio-acoustic modalities, by obtaining a mean square error (MSE) and mean absolute error (MAE) of 0.001, 0.003, and 0.010, 0.016 (in breaths per minute (BPM)) for tidal breathing followed by deep breathing (TBDB) and cough-speech (TBCS) induced cases. 
 </p>
 
 # Methodology
